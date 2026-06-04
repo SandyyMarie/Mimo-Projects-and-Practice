@@ -1,0 +1,41 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient();
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: black;
+}
+
+.container {
+  background-color: bisque;
+  width: 90%;
+  max-width: fit-content;
+  box-shadow: bisque;
+  padding: 10px;
+  border-radius: 10%;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background-color: burlywood;
+  color: black;
+  border: 10px;
+  border-radius: 30%;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+#result {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: large;
+  color: result;
+}
