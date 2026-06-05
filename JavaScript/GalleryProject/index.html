@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CATS galore</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <h1>Behold these majestic cats:</h1>
+  <div class="gallery">
+    <div class="item">
+      <img src="https://mimo.app/i/whispurr.png" class="thumbnail" alt="Cat looking at the camera while sitting on against a chair" onclick="showModal(this)">
+      <h2>Whispurr</h2>
+      <p>The majestic cat.</p>
+
+      <img src="https://mimo.app/i/babaganoosh.png" class="thumbnail" alt="Cat looking at the camera laying against a chest" onclick="showModal(this)">
+      <h2>Babaganoosh</h2>
+      <p>The goofball.</p>
+
+      <img src="https://mimo.app/i/nacho.png" class="thumbnail" alt="Cat looking at the camera from under a blanket." onclick="showModal(this)">
+      <h2>Nacho</h2>
+      <p>The scaredy cat.</p>
+    </div>
+  </div>
+  <div id="modal">
+    <span id="modal-close-button">x</span>
+    <img id="modal-content">
+
+  </div>
+  <script src="script.js"></script>
+  </body>
+</html>
