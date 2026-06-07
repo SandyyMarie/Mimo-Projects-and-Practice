@@ -1,0 +1,19 @@
+body {
+  background-color: pink;
+  padding: 20px;
+}
+
+h1 {
+  padding: 10px;
+  background-color: white;
+  border-radius: 10%;
+}
+
+p {
+  background-color: aliceblue;
+  color: black;
+  width: 200px;
+  height: 20px;
+  padding: 25px;
+  border-radius: 10%;
+}
