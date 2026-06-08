@@ -1,0 +1,10 @@
+name = input("Hello! What is your name? ")
+
+age_input = input("How old are you? ")
+bot_age = 3
+age = int(age_input)
+age_difference = age - bot_age
+print(f"You are {age_difference} years older than me. I'm only {bot_age} years old!")
+
+color = input("What's your favorite color? ")
+print(f"Oh, {color} is a beautiful color!")
