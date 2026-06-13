@@ -14,8 +14,11 @@ A variety of projects I've been working on through on Mimo
 ## Express
 
 ### Heads Or Tails
-### Media Library
 
+### Media Library
+Built a simple Movie API that returns Movie details when queried.
+<br>
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Express/MediaLibraryProject) 
 ## JavaScript
 
 
