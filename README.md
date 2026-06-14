@@ -1,8 +1,8 @@
-# Mimo-Projects-and-Practice
-A variety of projects I've been working on through on Mimo 
+# Mimo Projects and Practice
+
+A collection of projects built while working through Mimo's Full-Stack and Front-End Development curriculum, covering Express.js, JavaScript, Python, and React.
 
 ## Table of Contents
-
 1. [Express Projects](#express)
     - [Heads or Tails](#heads-or-tails)
     - [Media Library](#media-library)
@@ -10,27 +10,40 @@ A variety of projects I've been working on through on Mimo
 3. [Python](#python)
 4. [React](#react)
 
+---
 
 ## Express
 
 ### Heads Or Tails
-A lightweight Express.js REST API that provides three randomization utilities: coin flipping, dice rolling, and bounded random number generation.
-<br>
+**Tech:** Node.js, Express.js
+
+A lightweight REST API offering three randomization endpoints: coin flipping, dice rolling, and bounded random number generation. Supports query parameters for repeated trials and input validation with appropriate error responses.
+
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Express/HeadsOrTails.js)
 
+---
+
 ### Media Library
-Built a simple Movie API that returns Movie details when queried.
-<br>
-[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Express/MediaLibraryProject) 
+**Tech:** Node.js, Express.js
+
+A Movie API that returns movie details based on query parameters. Demonstrates RESTful routing and structured JSON responses.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Express/MediaLibraryProject)
+
+---
+
 ## JavaScript
 
+*Projects coming soon.*
 
+---
 
 ## Python
 
+*Projects coming soon.*
 
+---
 
 ## React
 
-
-
+*Projects coming soon.*
