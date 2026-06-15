@@ -1,6 +1,6 @@
 # Mimo Projects and Practice
 
-A collection of projects built while working through Mimo's Full-Stack and Front-End Development curriculum, covering Express.js, JavaScript, Python, and React.
+A collection of projects built while completing Mimo's Full-Stack, Front-End, Back-End, and Python career certifications, covering Express.js, JavaScript, Python, and React.
 
 ## Table of Contents
 1. [Express Projects](#express)
