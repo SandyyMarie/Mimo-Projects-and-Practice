@@ -16,14 +16,14 @@ A collection of projects built while working through Mimo's Full-Stack and Front
 ## Express
 
 ### Heads Or Tails
-**Tech:** Node.js, Express.js
+**Tech:** Express.js
 
 A lightweight REST API offering three randomization endpoints: coin flipping, dice rolling, and bounded random number generation. Supports query parameters for repeated trials and input validation with appropriate error responses.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Express/HeadsOrTails.js)
 
 ### Media Library
-**Tech:** Node.js, Express.js
+**Tech:** Express.js
 
 A Movie API that returns movie details based on query parameters. Demonstrates RESTful routing and structured JSON responses.
 
@@ -34,7 +34,7 @@ A Movie API that returns movie details based on query parameters. Demonstrates R
 ## JavaScript
 
 ### Blackjack
-**Tech:** JavaScript, Node.js
+**Tech:** JavaScript
 
 A command-line Blackjack game with full game logic including ace flexibility (aces count as 11 or drop to 1 to avoid busting), dealer AI that hits until reaching 17, and interactive hit/stand prompts. Handles edge cases like bust detection, ties, and invalid input.
 
