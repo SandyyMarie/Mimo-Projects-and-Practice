@@ -7,6 +7,7 @@ A collection of projects built while working through Mimo's Full-Stack and Front
     - [Heads or Tails](#heads-or-tails)
     - [Media Library](#media-library)
 2. [JavaScript](#javascript)
+    - [Blackjack](#blackjack)
 3. [Python](#python)
 4. [React](#react)
 
@@ -21,8 +22,6 @@ A lightweight REST API offering three randomization endpoints: coin flipping, di
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Express/HeadsOrTails.js)
 
----
-
 ### Media Library
 **Tech:** Node.js, Express.js
 
@@ -34,8 +33,12 @@ A Movie API that returns movie details based on query parameters. Demonstrates R
 
 ## JavaScript
 
-*Projects coming soon.*
+### Blackjack
+**Tech:** JavaScript, Node.js
 
+A command-line Blackjack game with full game logic including ace flexibility (aces count as 11 or drop to 1 to avoid busting), dealer AI that hits until reaching 17, and interactive hit/stand prompts. Handles edge cases like bust detection, ties, and invalid input.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/JavaScript/BlackjackProject/app.js)
 ---
 
 ## Python
