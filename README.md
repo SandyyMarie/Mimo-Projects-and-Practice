@@ -39,6 +39,7 @@ A Movie API that returns movie details based on query parameters. Demonstrates R
 A command-line Blackjack game with full game logic including ace flexibility (aces count as 11 or drop to 1 to avoid busting), dealer AI that hits until reaching 17, and interactive hit/stand prompts. Handles edge cases like bust detection, ties, and invalid input.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/JavaScript/BlackjackProject/app.js)
+
 ---
 
 ## Python
