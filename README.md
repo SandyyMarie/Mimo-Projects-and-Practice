@@ -8,6 +8,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Media Library](#media-library)
 2. [JavaScript](#javascript)
     - [Blackjack](#blackjack)
+    - [Caesar Cipher](#caesar-cipher)
 3. [Python](#python)
 4. [React](#react)
 
@@ -39,6 +40,14 @@ A Movie API that returns movie details based on query parameters. Demonstrates R
 A command-line Blackjack game with full game logic including ace flexibility (aces count as 11 or drop to 1 to avoid busting), dealer AI that hits until reaching 17, and interactive hit/stand prompts. Handles edge cases like bust detection, ties, and invalid input.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/JavaScript/BlackjackProject/app.js)
+
+
+### Caesar Cipher
+**Tech:** HTML, CSS, JavaScript
+
+A browser-based Caesar Cipher encoder that shifts each letter in user-provided text by a configurable amount (1–25). Updates the translated output in real time as the user types or adjusts the shift value, preserving case and leaving non-alphabetic characters unchanged.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/CaesarCipherProject)
 
 ---
 
