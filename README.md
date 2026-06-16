@@ -9,6 +9,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
 2. [JavaScript](#javascript)
     - [Blackjack](#blackjack)
     - [Caesar Cipher](#caesar-cipher)
+    - [Comedian-Bot](#comedian-bot)
 3. [Python](#python)
 4. [React](#react)
 
@@ -48,6 +49,15 @@ A command-line Blackjack game with full game logic including ace flexibility (ac
 A browser-based Caesar Cipher encoder that shifts each letter in user-provided text by a configurable amount (1–25). Updates the translated output in real time as the user types or adjusts the shift value, preserving case and leaving non-alphabetic characters unchanged.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/CaesarCipherProject)
+
+
+### Comedian Bot
+**Tech:** HTML, CSS, JavaScript
+
+A chat-style joke bot with a simulated conversation UI. Displays bot and user messages with avatars in a scrollable chat window, using staggered `setTimeout` calls to mimic realistic response timing. Cycles through a joke list and gracefully handles reaching the end of available jokes.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/ComedianBotProject)
+
 
 ---
 
