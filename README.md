@@ -6,7 +6,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
 1. [Express Projects](#express)
     - [Heads or Tails](#heads-or-tails)
     - [Media Library](#media-library)
-2. [JavaScript](#javascript)
+2. [JavaScript Projects](#javascript)
     - [Blackjack](#blackjack)
     - [Caesar Cipher](#caesar-cipher)
     - [Comedian Bot](#comedian-bot)
