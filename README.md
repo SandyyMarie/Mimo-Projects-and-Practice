@@ -9,7 +9,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
 2. [JavaScript](#javascript)
     - [Blackjack](#blackjack)
     - [Caesar Cipher](#caesar-cipher)
-    - [Comedian-Bot](#comedian-bot)
+    - [Comedian Bot](#comedian-bot)
 3. [Python](#python)
 4. [React](#react)
 
