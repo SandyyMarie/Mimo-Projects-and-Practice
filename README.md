@@ -47,7 +47,7 @@ A command-line Blackjack game with full game logic including ace flexibility (ac
 ### Caesar Cipher
 **Tech:** HTML, CSS, JavaScript
 
-A browser-based Caesar Cipher encoder that shifts each letter in user-provided text by a configurable amount (1–25). Updates the translated output in real time as the user types or adjusts the shift value, preserving case and leaving non-alphabetic characters unchanged.
+A browser-based Caesar Cipher encoder that shifts each letter in user-provided text by a configurable amount (1-25). Updates the translated output in real time as the user types or adjusts the shift value, preserving case and leaving non-alphabetic characters unchanged.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/CaesarCipherProject)
 
@@ -62,9 +62,10 @@ A chat-style joke bot with a simulated conversation UI. Displays bot and user me
 ### Even or Odds
 **Tech:** JavaScript
 
-A command-line two-player game (player vs. computer) played over three rounds. The player picks odd or even and a number 1–5, the computer automatically takes the opposite parity and picks its own number, and the sum determines the winner. Tracks wins across rounds and declares an overall winner.
+A command-line two-player game (player vs. computer) played over three rounds. The player picks odd or even and a number 1-5, the computer automatically takes the opposite parity and picks its own number, and the sum determines the winner. Tracks wins across rounds and declares an overall winner.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/JavaScript/EvenOrOddsProject/script.js)
+
 ---
 
 ## Python
