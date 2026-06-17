@@ -11,6 +11,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Caesar Cipher](#caesar-cipher)
     - [Comedian Bot](#comedian-bot)
     - [Even or Odds](#even-or-odds)
+    - [Gallery](#gallery)
 3. [Python](#python)
 4. [React](#react)
 
@@ -65,6 +66,13 @@ A chat-style joke bot with a simulated conversation UI. Displays bot and user me
 A command-line two-player game (player vs. computer) played over three rounds. The player picks odd or even and a number 1-5, the computer automatically takes the opposite parity and picks its own number, and the sum determines the winner. Tracks wins across rounds and declares an overall winner.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/JavaScript/EvenOrOddsProject/script.js)
+
+### Gallery
+**Tech:** HTML, CSS, JavaScript
+
+An image gallery featuring clickable thumbnails that open a fullscreen modal overlay on click. Includes a CSS hover zoom effect on thumbnails and a close button to dismiss the modal. Demonstrates DOM manipulation, event handling, and responsive layout using flexbox.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/GalleryProject)
 
 ---
 
