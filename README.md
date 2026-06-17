@@ -12,6 +12,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Comedian Bot](#comedian-bot)
     - [Even or Odds](#even-or-odds)
     - [Gallery](#gallery)
+    - [Guessing Game](#guessing-game)
 3. [Python](#python)
 4. [React](#react)
 
@@ -73,6 +74,14 @@ A command-line two-player game (player vs. computer) played over three rounds. T
 An image gallery featuring clickable thumbnails that open a fullscreen modal overlay on click. Includes a CSS hover zoom effect on thumbnails and a close button to dismiss the modal. Demonstrates DOM manipulation, event handling, and responsive layout using flexbox.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/GalleryProject)
+
+### Guessing Game
+**Tech:** HTML, CSS, JavaScript
+
+A browser based number guessing game where the player has 10 attempts to guess a randomly generated number between 1 and 100. Provides realtime higher/lower feedback after each guess with color coded responses, and displays a game over message when attempts are exhausted.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/GuessingGameProject)
+
 
 ---
 
