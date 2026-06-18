@@ -13,6 +13,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Even or Odds](#even-or-odds)
     - [Gallery](#gallery)
     - [Guessing Game](#guessing-game)
+    - [Pixel Paws](#pixel-paws)
 3. [Python](#python)
 4. [React](#react)
 
@@ -81,6 +82,20 @@ An image gallery featuring clickable thumbnails that open a fullscreen modal ove
 A browser based number guessing game where the player has 10 attempts to guess a randomly generated number between 1 and 100. Provides realtime higher/lower feedback after each guess with color coded responses, and displays a game over message when attempts are exhausted.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/GuessingGameProject)
+
+### Lightswitch
+**Tech:** JavaScript
+
+A beginner JavaScript exercise demonstrating boolean logic and variable relationships. Models a lightswitch scenario where the light state is derived from the time of day, and a working status is determined by combining multiple boolean conditions.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/JavaScript/LightswitchProgramProject/script.js)
+
+### Pixel Paws
+**Tech:** HTML, CSS, JavaScript
+
+A browser-based virtual pet game where the player selects and feeds one of two pets to maintain their saturation level. Uses OOP with a `Pet` class to manage each pet's state, a `setInterval` timer that decreases hunger every 5 seconds, and two treat options that restore different amounts. Pets that reach 0% saturation visually fade out and run away.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/PixelPawsProject)
 
 
 ---
