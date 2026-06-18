@@ -16,6 +16,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Lightswitch](#lightswitch)
     - [Pixel Paws](#pixel-paws)
     - [Rick and Morty Character Compass](#rick-and-morty-character-compass)
+    - [Task List](#task-list)
 3. [Python](#python)
 4. [React](#react)
 
@@ -105,6 +106,13 @@ A browser-based virtual pet game where the player selects and feeds one of two p
 A browser-based character directory that fetches live data from the [Rick and Morty API](https://rickandmortyapi.com/) and dynamically renders character cards displaying each character's image, name, status, and species. Demonstrates asynchronous JavaScript with the Fetch API, promise chaining, and dynamic DOM generation.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/RickMortyCharacterCompassProject)
+
+### Task List
+**Tech:** JavaScript
+
+A command-line task manager that lets the user view, add, and remove items from a list via an interactive menu loop. Demonstrates array manipulation, modular functions, input validation, and graceful handling of invalid entries.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/TaskListProject)
 
 ---
 
