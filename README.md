@@ -13,6 +13,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Even or Odds](#even-or-odds)
     - [Gallery](#gallery)
     - [Guessing Game](#guessing-game)
+    - [Lightswitch](#lightswitch)
     - [Pixel Paws](#pixel-paws)
 3. [Python](#python)
 4. [React](#react)
