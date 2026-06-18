@@ -15,6 +15,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Guessing Game](#guessing-game)
     - [Lightswitch](#lightswitch)
     - [Pixel Paws](#pixel-paws)
+    - [Rick and Morty Character Compass](#rick-and-morty-character-compass)
 3. [Python](#python)
 4. [React](#react)
 
@@ -98,6 +99,12 @@ A browser-based virtual pet game where the player selects and feeds one of two p
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/PixelPawsProject)
 
+### Rick and Morty Character Compass
+**Tech:** HTML, CSS, JavaScript
+
+A browser-based character directory that fetches live data from the [Rick and Morty API](https://rickandmortyapi.com/) and dynamically renders character cards displaying each character's image, name, status, and species. Demonstrates asynchronous JavaScript with the Fetch API, promise chaining, and dynamic DOM generation.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/RickMortyCharacterCompassProject)
 
 ---
 
