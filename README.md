@@ -18,6 +18,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Rick and Morty Character Compass](#rick-and-morty-character-compass)
     - [Task List](#task-list)
     - [Trivia Game](#trivia-game)
+    - [Unit Converter](#unit-converter)
 3. [Python](#python)
 4. [React](#react)
 
@@ -121,6 +122,13 @@ A command-line task manager that lets the user view, add, and remove items from 
 A browser-based multiple-choice trivia quiz that tracks the player's score across multiple questions and dynamically updates the question, answer choices, and result display. Demonstrates state management with index tracking and conditional rendering based on quiz progress.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/TriviaGameProject)
+
+### Unit Converter
+**Tech:** HTML, CSS, JavaScript
+
+A browser-based converter between miles and kilometers, with a dropdown to select conversion direction. Reads user input and dynamically updates the result on the page.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/UnitConverterProject)
 
 ---
 
