@@ -19,7 +19,9 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Task List](#task-list)
     - [Trivia Game](#trivia-game)
     - [Unit Converter](#unit-converter)
-3. [Python](#python)
+3. [Python](#python) 
+    - [Bot Project](#bot-project)
+    - [Crypto Craze](#crypto-craze)
 4. [React](#react)
 
 ---
@@ -141,6 +143,12 @@ An interactive command-line chatbot that greets the user, collects their name, a
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Python/BotProject/script.py)
 
+### Crypto Craze
+**Tech:** Python
+
+A command-line tool that fetches and displays real-time cryptocurrency prices (Ethereum, Bitcoin, Solana) via a REST API. Uses environment variables to securely manage the API key and modular functions to handle requests and format output.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Python/CryptoCrazeProject/app.py)
 
 
 ---
