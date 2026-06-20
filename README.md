@@ -17,6 +17,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Pixel Paws](#pixel-paws)
     - [Rick and Morty Character Compass](#rick-and-morty-character-compass)
     - [Task List](#task-list)
+    - [Trivia Game](#trivia-game)
 3. [Python](#python)
 4. [React](#react)
 
@@ -113,6 +114,13 @@ A browser-based character directory that fetches live data from the [Rick and Mo
 A command-line task manager that lets the user view, add, and remove items from a list via an interactive menu loop. Demonstrates array manipulation, modular functions, input validation, and graceful handling of invalid entries.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/TaskListProject)
+
+### Trivia Game
+**Tech:** HTML, CSS, JavaScript
+
+A browser-based multiple-choice trivia quiz that tracks the player's score across multiple questions and dynamically updates the question, answer choices, and result display. Demonstrates state management with index tracking and conditional rendering based on quiz progress.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/TriviaGameProject)
 
 ---
 
