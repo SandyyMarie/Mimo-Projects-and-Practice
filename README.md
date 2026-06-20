@@ -134,7 +134,14 @@ A browser-based converter between miles and kilometers, with a dropdown to selec
 
 ## Python
 
-*Projects coming soon.*
+### Bot Project
+**Tech:** Python
+
+An interactive command-line chatbot that greets the user, collects their name, age, and favorite color, then calculates and responds with the age difference between the user and the bot. Demonstrates user input handling, type casting, and formatted string output.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Python/BotProject/script.py)
+
+
 
 ---
 
