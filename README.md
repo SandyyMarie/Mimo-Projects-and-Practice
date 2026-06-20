@@ -142,4 +142,6 @@ A browser-based converter between miles and kilometers, with a dropdown to selec
 
 *Projects coming soon.*
 
+---
+
 [Back To Top](#mimo-projects-and-practice) 
