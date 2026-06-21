@@ -23,6 +23,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Bot Project](#bot-project)
     - [Crypto Craze](#crypto-craze)
     - [Draw a Card](#draw-a-card)
+    - [Food Order System](#food-order-system)
 4. [React](#react)
 
 ---
@@ -157,6 +158,13 @@ A command-line tool that fetches and displays real-time cryptocurrency prices (E
 A command-line card-drawing simulator that builds a standard 52-card deck and lets the user repeatedly draw a chosen number of cards until the deck is depleted. Renders each drawn card as ASCII art and handles edge cases like requesting more cards than remain in the deck.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/DrawACardProject)
+
+### Food Order System
+**Tech:** Python
+
+A command-line food ordering system supporting Italian and Indian cuisine menus. Lets the user select a food type, view available meals, and place an order with a specified quantity, generating an order summary or an error message if the meal isn't found.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/FoodOrderSystemProject)
 
 
 ---
