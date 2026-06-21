@@ -22,6 +22,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
 3. [Python](#python) 
     - [Bot Project](#bot-project)
     - [Crypto Craze](#crypto-craze)
+    - [Draw a Card](#draw-a-card)
 4. [React](#react)
 
 ---
@@ -149,6 +150,13 @@ An interactive command-line chatbot that greets the user, collects their name, a
 A command-line tool that fetches and displays real-time cryptocurrency prices (Ethereum, Bitcoin, Solana) via a REST API. Uses environment variables to securely manage the API key and modular functions to handle requests and format output.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/blob/main/Python/CryptoCrazeProject/app.py)
+
+### Draw a Card
+**Tech:** Python
+
+A command-line card-drawing simulator that builds a standard 52-card deck and lets the user repeatedly draw a chosen number of cards until the deck is depleted. Renders each drawn card as ASCII art and handles edge cases like requesting more cards than remain in the deck.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/DrawACardProject)
 
 
 ---
