@@ -25,6 +25,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Draw a Card](#draw-a-card)
     - [Food Order System](#food-order-system)
     - [Library](#library)
+    - [Rock Paper Scissors](#rock-paper-scissors)
 4. [React](#react)
 
 ---
@@ -173,6 +174,13 @@ A command-line food ordering system supporting Italian and Indian cuisine menus.
 A command-line library management system built with OOP, featuring two classes: `Book` (tracks title, author, and availability with checkout/return methods) and `Library` (manages a collection with add, display, and case-insensitive title search). Demonstrates class design, encapsulation, and object composition.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/LibraryProject)
+
+### Rock Paper Scissors
+**Tech:** Python
+
+A command-line Rock Paper Scissors game played as a best-of-3 match against the computer. Handles all win/loss/tie conditions, tracks running scores after each round, and declares an overall winner once either player reaches 2 wins.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/RockPaperScissorsProject)
 
 
 ---
