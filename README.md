@@ -24,6 +24,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Crypto Craze](#crypto-craze)
     - [Draw a Card](#draw-a-card)
     - [Food Order System](#food-order-system)
+    - [Library](#library)
 4. [React](#react)
 
 ---
@@ -165,6 +166,13 @@ A command-line card-drawing simulator that builds a standard 52-card deck and le
 A command-line food ordering system supporting Italian and Indian cuisine menus. Lets the user select a food type, view available meals, and place an order with a specified quantity, generating an order summary or an error message if the meal isn't found.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/FoodOrderSystemProject)
+
+### Library
+**Tech:** Python
+
+A command-line library management system built with OOP, featuring two classes: `Book` (tracks title, author, and availability with checkout/return methods) and `Library` (manages a collection with add, display, and case-insensitive title search). Demonstrates class design, encapsulation, and object composition.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/LibraryProject)
 
 
 ---
