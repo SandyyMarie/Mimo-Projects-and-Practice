@@ -28,6 +28,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Rock Paper Scissors](#rock-paper-scissors)
     - [Star Wars API](#star-wars-api)
     - [To Do List](#to-do-list)
+    - [Transaction Analyzer](#transaction-analyzer)
 4. [React](#react)
 
 ---
@@ -197,6 +198,13 @@ A command-line tool that fetches and displays Star Wars data (people or planets)
 A command-line task manager with an interactive menu loop for adding and removing tasks from a list. Handles the edge case of attempting to remove a task from an empty list and exits cleanly on quit.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/ToDoListProject)
+
+### Transaction Analyzer
+**Tech:** Python
+
+A command-line financial transaction analyzer that processes a dataset of deposits and withdrawals. Calculates total deposited, total withdrawn, running balance, largest deposit and withdrawal, and average deposit and withdrawal amounts. Features an interactive menu loop for printing summaries or running analysis on demand.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/TransactionAnalyzerProject)
 
 
 ---
