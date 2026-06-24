@@ -27,6 +27,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Library](#library)
     - [Rock Paper Scissors](#rock-paper-scissors)
     - [Star Wars API](#star-wars-api)
+    - [To Do List](#to-do-list)
 4. [React](#react)
 
 ---
@@ -189,6 +190,13 @@ A command-line Rock Paper Scissors game played as a best-of-3 match against the 
 A command-line tool that fetches and displays Star Wars data (people or planets) from a REST API based on user input. Implements error handling with `raise_for_status()` to catch HTTP errors gracefully and prints a list of entity names from the response.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/StarWarsAPIProject)
+
+### To Do List
+**Tech:** Python
+
+A command-line task manager with an interactive menu loop for adding and removing tasks from a list. Handles the edge case of attempting to remove a task from an empty list and exits cleanly on quit.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/ToDoListProject)
 
 
 ---
