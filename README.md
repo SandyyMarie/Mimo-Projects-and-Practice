@@ -26,6 +26,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Food Order System](#food-order-system)
     - [Library](#library)
     - [Rock Paper Scissors](#rock-paper-scissors)
+    - [Star Wars API](#star-wars-api)
 4. [React](#react)
 
 ---
@@ -181,6 +182,13 @@ A command-line library management system built with OOP, featuring two classes: 
 A command-line Rock Paper Scissors game played as a best-of-3 match against the computer. Handles all win/loss/tie conditions, tracks running scores after each round, and declares an overall winner once either player reaches 2 wins.
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/RockPaperScissorsProject)
+
+### Star Wars API
+**Tech:** Python
+
+A command-line tool that fetches and displays Star Wars data (people or planets) from a REST API based on user input. Implements error handling with `raise_for_status()` to catch HTTP errors gracefully and prints a list of entity names from the response.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python/StarWarsAPIProject)
 
 
 ---
