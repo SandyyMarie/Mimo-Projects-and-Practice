@@ -30,6 +30,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [To Do List](#to-do-list)
     - [Transaction Analyzer](#transaction-analyzer)
 4. [React](#react)
+    - [Pokédex App](#pokédex-app)
 
 ---
 
@@ -211,7 +212,17 @@ A command-line financial transaction analyzer that processes a dataset of deposi
 
 ## React
 
-*Projects coming soon.*
+## React
+
+### Pokédex App
+**Tech:** React, React Router DOM, Vite, CSS
+
+A multi-page Pokédex application that fetches live data from the Mimo Pokédex API to browse and explore Pokémon. Features a full list view with sprite cards, real-time search filtering by name, and a detailed view for each Pokémon displaying height, weight, abilities, and types. Built with React Router for client-side routing, hooks for state and side effects, and consistent error handling and loading states throughout. Styled with a retro pixel-art aesthetic using the Press Start 2P font.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/React/PokedexProject)
+
+
+---
 
 ---
 
