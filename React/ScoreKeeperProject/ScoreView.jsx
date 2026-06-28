@@ -3,7 +3,7 @@ import "./ScoreView.css";
 
 const ScoreView = (props) => {
   return (
-    <div className={`score-view-wrapper-leading-${props.leading}`}>
+    <div className={props.leading ? "score-view-wrapper-leading" : ""}>
       <h2>
         {props.teamName}: {props.score}
       </h2>
