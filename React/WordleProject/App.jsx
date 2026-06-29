@@ -3,7 +3,8 @@ import "./App.css";
 import Row from "./Row";
 
 const App = () => {
-  const targetWord = "REACT";
+  const words = ["REACT", "CRANE", "PLUMB", "SWIFT", "BLAZE", "TRAIN", "SPARK", "GLOBE", "FROST", "BRAVE"];
+  const [targetWord] = useState(() => words[Math.floor(Math.random() * words.length)]);
   const maxAttempts = 6;
 
   const [guesses, setGuesses] = useState([]);
