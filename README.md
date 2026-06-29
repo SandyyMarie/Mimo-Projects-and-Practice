@@ -32,6 +32,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
 4. [React](#react)
     - [Pokédex App](#pokédex-app)
     - [Score Keeper](#score-keeper)
+    - [Wordle](#wordle)
 
 ---
 
@@ -227,6 +228,12 @@ A two-team score tracking app built with React. Displays live scores for Team On
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/React/ScoreKeeperProject)
 
+### Wordle
+**Tech:** React, CSS
+
+A browser-based Wordle clone built with React. The player has 6 attempts to guess a hidden 5-letter word, with each submitted guess rendered as a color-coded row — green for correct letters in the correct position, gold for correct letters in the wrong position, and gray for absent letters. Implements game state management with useState, win/loss detection, and input validation that prevents submission of incomplete guesses. Demonstrates component composition, props-driven rendering, and algorithmic letter-status logic.
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/React/WordleProject)
 
 
 ---
