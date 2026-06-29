@@ -3,10 +3,10 @@
 A collection of projects I built while completing Mimo's Full-Stack, Front-End, Back-End, and Python career certifications, covering Express.js, JavaScript, Python, and React.
 
 ## Table of Contents
-1. [Express Projects](#express)
+1. [Express](#express)
     - [Heads or Tails](#heads-or-tails)
     - [Media Library](#media-library)
-2. [JavaScript Projects](#javascript)
+2. [JavaScript](#javascript)
     - [Blackjack](#blackjack)
     - [Caesar Cipher](#caesar-cipher)
     - [Comedian Bot](#comedian-bot)
