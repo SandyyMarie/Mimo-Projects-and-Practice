@@ -33,6 +33,10 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Pokédex App](#pokédex-app)
     - [Score Keeper](#score-keeper)
     - [Wordle](#wordle)
+5. [TypeScript](#typescript)
+    - [Transaction Analyzer](#transaction-analyzer-ts)
+    - [Typed Task API](#typed-task-api)
+
 
 ---
 
@@ -235,7 +239,26 @@ A browser-based Wordle clone built with React. The player has 6 attempts to gues
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/React/WordleProject)
 
+---
+
+## TypeScript 
+IN PROGRESS
+
+### Transaction Analyzer TS
+**Tech:** TypeScript, Node.js
+
+A TypeScript conversion of the Python Transaction Analyzer project. Processes a dataset of deposits and withdrawals using strictly typed interfaces and union types, calculating total deposited, total withdrawn, running balance, and largest and average transaction amounts. Demonstrates TypeScript fundamentals including interfaces, union types, typed functions, and strict mode — and shows the ability to migrate an existing project to a statically typed language.
+
+
+### Typed Task API
+**Tech:** TypeScript, Node.js, Express.js
+
+A fully typed RESTful task management API built with Express and TypeScript. Supports creating, reading, updating, and deleting tasks via typed request and response handlers. Uses TypeScript interfaces to define the Task data model, `@types/express` for typed Express internals, and strict mode throughout. Demonstrates backend TypeScript in a real API context including typed route handlers, request body validation, and structured error responses.
+
+
 
 ---
+
+
 
 [Back To Top](#mimo-projects-and-practice) 
