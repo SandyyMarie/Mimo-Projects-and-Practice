@@ -4,12 +4,12 @@ A collection of projects built to develop TypeScript skills with a focus on back
 
 ## Table of Contents
 1. [Transaction Analyzer TS](#transaction-analyzer-ts)
-2. [Typed Task API](#typed-task-api)
+2. [Restaurant Recommender](#restaurant-recommender)
+
 
 ---
 
 ## Transaction Analyzer TS
-
 **Tech:** TypeScript, Node.js
 
 A TypeScript conversion of the Python Transaction Analyzer project. Processes a dataset of deposits and withdrawals using strictly typed interfaces and union types, calculating total deposited, total withdrawn, running balance, and largest and average transaction amounts.
@@ -22,62 +22,34 @@ A TypeScript conversion of the Python Transaction Analyzer project. Processes a 
 
 **Why I built this:** Converting an existing project to TypeScript is a practical way to learn static typing — the logic is already familiar so the focus stays entirely on TypeScript syntax and patterns.
 
-[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/TransactionAnalyzerTS)
+**Getting Started:**
+```bash
+npm install
+npx ts-node index.ts
+```
+
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/TransactionAnalyzerProjectTS)
 
 ---
 
-## Typed Task API
+## Restaurant Recommender
+**Tech:** TypeScript, Node.js
 
-**Tech:** TypeScript, Node.js, Express.js
-
-A fully typed RESTful task management API built with Express and TypeScript. Supports creating, reading, updating, and deleting tasks via typed request and response handlers.
-
-**Endpoints:**
-
-| Method | Path | Description |
-|--------|------|-------------|
-| GET | /tasks | Returns all tasks |
-| GET | /tasks/:id | Returns a single task |
-| POST | /tasks | Creates a new task |
-| PATCH | /tasks/:id | Updates an existing task |
-| DELETE | /tasks/:id | Deletes a task |
+A command-line tool that filters a dataset of restaurants based on price bracket, maximum delivery time, distance, and current operating hours. Uses TypeScript's strict typing for filter logic and demonstrates type-safe comparisons, module imports, and real-time data via the `Date` object.
 
 **Key TypeScript concepts demonstrated:**
-- Interfaces for data modeling (`Task` interface)
-- Typed Express request and response handlers
-- `@types/express` for typed Express internals
-- Union types for status fields
-- Strict mode enabled throughout
+- Typed variables with explicit type annotations (`string`, `number`)
+- Module imports with a typed data source
+- Type-safe filtering with `.filter()`
+- Real-time logic using the `Date` object
 
 **Getting Started:**
-
 ```bash
 npm install
-npx ts-node app.ts
+npx ts-node index.ts
 ```
 
-Server runs on [http://localhost:3000](http://localhost:3000)
-
-**Example requests:**
-```bash
-# Get all tasks
-curl http://localhost:3000/tasks
-
-# Create a task
-curl -X POST http://localhost:3000/tasks \
-  -H "Content-Type: application/json" \
-  -d '{"title": "Learn TypeScript"}'
-
-# Update a task
-curl -X PATCH http://localhost:3000/tasks/1 \
-  -H "Content-Type: application/json" \
-  -d '{"completed": true}'
-
-# Delete a task
-curl -X DELETE http://localhost:3000/tasks/1
-```
-
-[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/TypedTaskAPI)
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/RestaurantRecommender)
 
 ---
 
