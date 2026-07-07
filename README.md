@@ -242,13 +242,13 @@ A browser-based Wordle clone built with React. The player has 6 attempts to gues
 ---
 
 ## TypeScript 
-IN PROGRESS
 
 ### Transaction Analyzer TS
 **Tech:** TypeScript, Node.js
 
 A TypeScript conversion of the Python Transaction Analyzer project. Processes a dataset of deposits and withdrawals using strictly typed interfaces and union types, calculating total deposited, total withdrawn, running balance, and largest and average transaction amounts. Demonstrates TypeScript fundamentals including interfaces, union types, typed functions, and strict mode — and shows the ability to migrate an existing project to a statically typed language.
 
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/TransactionAnalyzerProjectTS)
 
 ### Typed Task API
 **Tech:** TypeScript, Node.js, Express.js
