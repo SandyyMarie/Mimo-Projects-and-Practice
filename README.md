@@ -35,7 +35,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
     - [Wordle](#wordle)
 5. [TypeScript](#typescript)
     - [Transaction Analyzer](#transaction-analyzer-ts)
-    - [Typed Task API](#typed-task-api)
+    - [Restaurant Recommender](#restaurant-recommender)
 
 
 ---
@@ -250,11 +250,12 @@ A TypeScript conversion of the Python Transaction Analyzer project. Processes a 
 
 [Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/TransactionAnalyzerProjectTS)
 
-### Typed Task API
-**Tech:** TypeScript, Node.js, Express.js
+### Restaurant Recommender
+**Tech:** TypeScript, Node.js
 
-A fully typed RESTful task management API built with Express and TypeScript. Supports creating, reading, updating, and deleting tasks via typed request and response handlers. Uses TypeScript interfaces to define the Task data model, `@types/express` for typed Express internals, and strict mode throughout. Demonstrates backend TypeScript in a real API context including typed route handlers, request body validation, and structured error responses.
+A TypeScript command-line tool that filters a dataset of restaurants based on price bracket, maximum delivery time, distance, and current operating hours. Uses TypeScript's strict typing for filter logic and demonstrates type-safe comparisons, module imports, and real-time data via the `Date` object.
 
+[Repository](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/RestaurantRecommender)
 
 
 ---
