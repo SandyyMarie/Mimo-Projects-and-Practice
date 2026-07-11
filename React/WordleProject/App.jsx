@@ -6,9 +6,9 @@ const App = () => {
   const words = ["REACT", "CRANE", "PLUMB", "SWIFT", "BLAZE", "TRAIN", "SPARK", "GLOBE", "FROST", "BRAVE"];
   const [targetWord] = useState(() => words[Math.floor(Math.random() * words.length)]);
   const maxAttempts = 6;
-
   const [guesses, setGuesses] = useState([]);
   const [currentGuess, setCurrentGuess] = useState("");
+  const [lastSubmittedGuess, setLastSubmittedGuess] = useState(""); 
   const [isGameOver, setIsGameOver] = useState(false);
 
   const handleInputChange = (event) => {
@@ -19,9 +19,10 @@ const App = () => {
     if (currentGuess.length !== 5) {
       return;
     }
-
     const updatedGuesses = [...guesses, currentGuess];
     setGuesses(updatedGuesses);
+    setLastSubmittedGuess(currentGuess); 
+    setCurrentGuess("");                 
 
     if (currentGuess === targetWord || updatedGuesses.length >= maxAttempts) {
       setIsGameOver(true);
@@ -37,6 +38,7 @@ const App = () => {
       {!isGameOver && (
         <>
           <input
+            value={currentGuess}
             onChange={handleInputChange}
             maxLength={targetWord.length}
             placeholder="Enter your guess"
@@ -44,7 +46,7 @@ const App = () => {
           <button onClick={handleGuess}>Guess</button>
         </>
       )}
-      {isGameOver && currentGuess !== targetWord && (
+      {isGameOver && lastSubmittedGuess !== targetWord && ( 
         <p>{`Game over! The word was: ${targetWord}`}</p>
       )}
     </div>
