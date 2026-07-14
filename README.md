@@ -41,6 +41,7 @@ A collection of projects I built while completing Mimo's Full-Stack, Front-End, 
 ---
 
 ## Express
+[General Repo](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Express)
 
 ### Heads Or Tails
 **Tech:** Express.js
