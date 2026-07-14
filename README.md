@@ -60,6 +60,8 @@ A Movie API that returns movie details based on query parameters. Demonstrates R
 
 ## JavaScript
 
+[General Repo](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript)
+
 ### Blackjack
 **Tech:** JavaScript
 
