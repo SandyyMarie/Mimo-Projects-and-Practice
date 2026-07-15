@@ -153,6 +153,8 @@ A browser-based converter between miles and kilometers, with a dropdown to selec
 
 ## Python
 
+[General Repo](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/Python)
+
 ### Bot Project
 **Tech:** Python
 
