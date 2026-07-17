@@ -250,6 +250,8 @@ A browser-based Wordle clone built with React. The player has 6 attempts to gues
 
 ## TypeScript 
 
+[General Repo](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript)
+
 ### Transaction Analyzer TS
 **Tech:** TypeScript, Node.js
 
