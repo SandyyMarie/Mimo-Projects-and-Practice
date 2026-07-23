@@ -60,7 +60,3 @@ Total Deposited: $4522.70
 Total Withdrawn: $-2071.34
 Balance: $2451.36
 ```
-
-## Repository
-
-[Transaction Analyzer TS](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/TransactionAnalyzerProjectTS)
