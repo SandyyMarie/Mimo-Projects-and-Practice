@@ -4,7 +4,7 @@ A TypeScript command-line tool that filters a dataset of restaurants in real tim
 
 ## Tech Stack
 
-`TypeScript` `Node.js`
+`TypeScript`
 
 ## Features
 
