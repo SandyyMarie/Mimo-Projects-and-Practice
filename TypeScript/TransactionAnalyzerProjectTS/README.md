@@ -2,7 +2,7 @@
 
 A TypeScript conversion of the original Python Transaction Analyzer project. Processes a dataset of deposits and withdrawals using strictly typed interfaces and union types, calculating total deposited, total withdrawn, running balance, and largest and average transaction amounts.
 
-**Why I built this:** Converting an existing project to TypeScript is a practical way to learn static typing — the logic is already familiar so the focus stays entirely on TypeScript syntax and patterns.
+**Why I built this:** Converting an existing project to TypeScript is a practical way to learn static typing - the logic is already familiar so the focus stays entirely on TypeScript syntax and patterns.
 
 ## Tech Stack
 
