@@ -35,14 +35,10 @@ ts-node index.ts
 
 ## Known Issue
 
-The operating hours filter condition has a logic bug — it currently checks if `openHour < hour && hour > closeHour` simultaneously, which doesn't correctly exclude closed restaurants. The corrected condition should be:
+The operating hours filter condition has a logic bug - it currently checks if `openHour < hour && hour > closeHour` simultaneously, which doesn't correctly exclude closed restaurants. The corrected condition should be:
 
 ```typescript
 if (hour < Number(restaurant.openHour) || hour >= Number(restaurant.closeHour)) {
   return false;
 }
 ```
-
-## Repository
-
-[Restaurant Recommender](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/TypeScript/RestaurantRecommender)
