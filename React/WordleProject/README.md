@@ -16,8 +16,8 @@ A browser-based Wordle clone built with React. The player has 6 attempts to gues
 
 ## Component Structure
 
-App
-└── Row (rendered once per submitted guess)
+App <br>
+└── Row (rendered once per submitted guess) <br>
 
 - **`App`** — Manages all game state including the target word, guess history, current guess, and game over status. Handles input and guess submission logic.
 - **`Row`** — Presentational component that receives a guess and the target word, evaluates each letter's status, and renders a color-coded row of letter tiles.
