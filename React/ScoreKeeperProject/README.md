@@ -14,9 +14,9 @@ A two-team score tracking app built with React. Displays live scores for Team On
 
 ## Component Structure
 
-App
-└── ScoreKeeper
-    └── ScoreView (rendered twice, once per team)
+App<br>
+└── ScoreKeeper<br>
+&nbsp; &nbsp; └── ScoreView (rendered twice, once per team)
 
 - **`App`** — Root component, renders `ScoreKeeper`
 - **`ScoreKeeper`** — Manages score state with `useState` and passes scores and leading status down as props
