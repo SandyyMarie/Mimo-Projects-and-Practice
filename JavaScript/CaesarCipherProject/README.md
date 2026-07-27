@@ -50,7 +50,3 @@ document.getElementById("plaintext").addEventListener(translate);
 document.getElementById("plaintext").addEventListener("input", translate);
 document.getElementById("shift").addEventListener("input", translate);
 ```
-
-## Repository
-
-[Caesar Cipher Project](https://github.com/SandyyMarie/Mimo-Projects-and-Practice/tree/main/JavaScript/CaesarCipherProject)
