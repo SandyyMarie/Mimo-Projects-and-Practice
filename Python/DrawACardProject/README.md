@@ -34,11 +34,11 @@ Each card is rendered as ASCII art, with spacing adjusted for two-character rank
 
 ```
 +-------+
-|10 |
-| |
-| ♥ |
-| |
-| 10|
+|10   |
+|     |
+|  ♥  |
+|     |
+|   10|
 +-------+
 ```
 ## Key Concepts Demonstrated
